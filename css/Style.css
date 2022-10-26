@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #0a0d1a;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #13212D;
+}
+nav, li{
+    color: white;
+}
+
+li{ 
+    display: inline-block;
+}
+li a, .desplegar{
+    display: inline-block;
+    color: white;
+    text-align: center;
+
+}
+.desplegar-content{
+    display: none;
+    position: absolute;
+    background-color: #13212D;
+    z-index: 1;
+}
+button .usu{
+    border-radius: 5px;
+}
+
+div, .glosario{
+    height: ;
+}
+
+footer{
+    height: 60px;
+    background-color: #13212D;
+    align-self: center;
+    padding-left: 20%;
+}
+div, .div-bajo{
+    background-color: #13212D;
+    padding-bottom: 10px;
+    
+}
+.portadas{
+    justify-content: space-around;
+}
+
