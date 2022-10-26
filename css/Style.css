@@ -40,7 +40,6 @@ button .usu{
 }
 
 div, .glosario{
-    height: ;
 }
 
 footer{
@@ -58,3 +57,6 @@ div, .div-bajo{
     justify-content: space-around;
 }
 
+h1{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
